@@ -1,2 +1,0 @@
-# WebAppProjektB
-AI Slop
