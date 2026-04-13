@@ -1,0 +1,45 @@
+{
+    "booking_id": "ST-20260413-5843E9",
+    "timestamp": "2026-04-13 21:57:09",
+    "offer_number": "ST-2026-0042",
+    "destination": "chernobyl",
+    "last_name": "McTest",
+    "first_name": "Testy",
+    "address": "Teststr. 42, 68159 Mannheim",
+    "phone": "0123456789",
+    "email": "test@test.de",
+    "num_persons": 2,
+    "num_rooms": 1,
+    "arrival_date": "2026-06-01",
+    "departure_date": "2026-06-05",
+    "excursions": [
+        "sewer_tour",
+        "mystery_food"
+    ],
+    "smoking": "non_smoker",
+    "notes": "Please bring extra Geiger counters",
+    "price_per_day": 69,
+    "additional_persons": [
+        {
+            "first_name": "Glowy",
+            "last_name": "McRadiation"
+        }
+    ],
+    "cost_breakdown": {
+        "days": 4,
+        "base_cost": 552,
+        "excursion_cost": 55,
+        "excursion_details": [
+            {
+                "name": "sewer_tour",
+                "price": 25
+            },
+            {
+                "name": "mystery_food",
+                "price": 30
+            }
+        ],
+        "total_cost": 607
+    },
+    "credit_card_masked": "************4242"
+}
