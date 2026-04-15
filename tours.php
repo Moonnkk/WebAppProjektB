@@ -12,7 +12,7 @@
 
   <!-- Paris -->
   <div class="tour-card">
-    <div class="tour-image paris">&#127879;</div>
+    <div class="tour-image paris"><img src="images/paris.jpg" alt="Paris, France"></div>
     <div class="tour-card-body">
       <h3>Paris, France</h3>
       <p class="tour-price">ab 69 EUR / Tag / Person</p>
@@ -27,7 +27,7 @@
 
   <!-- Pyongyang -->
   <div class="tour-card">
-    <div class="tour-image pyongyang">&#127471;&#127472;</div>
+    <div class="tour-image pyongyang"><img src="images/pyongyang.jpg" alt="Pyongyang, North Korea"></div>
     <div class="tour-card-body">
       <h3>Pyongyang, North Korea</h3>
       <p class="tour-price">ab 69 EUR / Tag / Person</p>
@@ -42,7 +42,7 @@
 
   <!-- Chernobyl -->
   <div class="tour-card">
-    <div class="tour-image chernobyl">&#9762;&#65039;</div>
+    <div class="tour-image chernobyl"><img src="images/chernobyl.jpg" alt="Chernobyl, Ukraine"></div>
     <div class="tour-card-body">
       <h3>Chernobyl, Ukraine</h3>
       <p class="tour-price">ab 69 EUR / Tag / Person</p>
@@ -57,7 +57,7 @@
 
   <!-- Gary, Indiana -->
   <div class="tour-card">
-    <div class="tour-image gary">&#127961;&#65039;</div>
+    <div class="tour-image gary"><img src="images/gary.jpg" alt="Gary, Indiana, USA"></div>
     <div class="tour-card-body">
       <h3>Gary, Indiana, USA</h3>
       <p class="tour-price">ab 69 EUR / Tag / Person</p>
@@ -72,7 +72,7 @@
 
   <!-- Bielefeld -->
   <div class="tour-card">
-    <div class="tour-image bielefeld">&#128123;</div>
+    <div class="tour-image bielefeld"><img src="images/bielefeld.jpg" alt="Bielefeld, Germany"></div>
     <div class="tour-card-body">
       <h3>Bielefeld, Germany</h3>
       <p class="tour-price">ab 69 EUR / Tag / Person</p>
